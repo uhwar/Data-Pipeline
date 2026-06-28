@@ -1,0 +1,201 @@
+order_id,customer_id,date,product,category,quantity,unit_price,status
+ORD-0001,CUST-147,2024-05-05,USB-C Hub,Electronics,1,49.99,completed
+ORD-0002,CUST-101,2024-10-29,USB-C Hub,Electronics,9,49.99,completed
+ORD-0003,CUST-135,2024-09-15,USB-C Hub,Electronics,4,49.99,completed
+ORD-0004,CUST-117,2024-04-22,Gel Pens (10pk),Stationery,9,8.99,refunded
+ORD-0005,CUST-113,2024-06-23,Wireless Mouse,Electronics,3,29.99,refunded
+ORD-0006,CUST-122,2024-07-13,Monitor Stand,Furniture,-2,59.99,completed
+ORD-0007,CUST-124,2024-08-23,Mouse Pad,Electronics,5,14.99,completed
+ORD-0008,CUST-123,2024-11-17,USB-C Hub,Electronics,9,49.99,completed
+ORD-0009,CUST-149,2024-01-24,Mouse Pad,Electronics,4,14.99,completed
+ORD-0010,CUST-129,2024-02-21,Desk Lamp,Furniture,2,34.99,completed
+ORD-0011,CUST-117,2024-06-30,Monitor Stand,Furniture,3,59.99,completed
+ORD-0012,CUST-110,2024-09-30,USB-C Hub,Electronics,10,49.99,completed
+ORD-0013,CUST-114,2024-11-23,Water Bottle,Kitchen,7,22.99,completed
+ORD-0014,CUST-125,2024-01-17,Monitor Stand,FURNITURE,1,59.99,completed
+ORD-0015,CUST-120,2024-10-17,Desk Lamp,FURNITURE,2,34.99,completed
+ORD-0016,CUST-116,2024-11-25,Gel Pens (10pk),Stationery,8,8.99,refunded
+ORD-0017,CUST-137,2024-10-02,Notebook,Stationery,4,4.99,pending
+ORD-0018,CUST-108,2024-07-04,Coffee Mug,Kitchen,10,12.99,refunded
+ORD-0019,CUST-109,2024-01-25,Webcam,ELECTRONICS,8,79.99,completed
+ORD-0020,CUST-138,2024-02-02,Notebook,Stationery,7,4.99,pending
+ORD-0021,CUST-100,2024-10-10,Water Bottle,KITCHEN,9,22.99,completed
+ORD-0022,CUST-118,2024-11-24,USB-C Hub,Electronics,9,49.99,completed
+ORD-0022,CUST-118,2024-11-24,USB-C Hub,Electronics,9,49.99,completed
+ORD-0024,CUST-140,2024-09-16,Desk Lamp,FURNITURE,9,34.99,completed
+ORD-0025,CUST-148,not-a-date,Desk Lamp,Furniture,9,34.99,pending
+ORD-0026,CUST-131,2024-01-01,Notebook,Stationery,9,4.99,pending
+ORD-0027,CUST-115,2024-06-06,Wireless Mouse,Electronics,2,29.99,completed
+ORD-0028,CUST-148,2024-09-05,Mouse Pad,ELECTRONICS,2,14.99,completed
+ORD-0029,CUST-135,2024-12-03,Webcam,Electronics,3,79.99,completed
+ORD-0030,CUST-113,2024-11-06,Notebook,Stationery,5,4.99,pending
+ORD-0030,CUST-113,2024-11-06,Notebook,Stationery,5,4.99,pending
+ORD-0032,CUST-114,2024-08-19,Monitor Stand,Furniture,8,,pending
+ORD-0033,CUST-137,2024-10-28,USB-C Hub,Electronics,6,49.99,completed
+ORD-0034,CUST-114,2024-12-28,Gel Pens (10pk),Stationery,1,8.99,completed
+ORD-0035,CUST-117,2024-02-06,USB-C Hub,Electronics,1,49.99,completed
+ORD-0036,CUST-136,2024-03-08,Water Bottle,Kitchen,4,22.99,pending
+ORD-0037,CUST-112,2024-08-30,Mouse Pad,ELECTRONICS,8,14.99,completed
+ORD-0038,CUST-129,2024-06-30,USB-C Hub,Electronics,2,49.99,refunded
+ORD-0039,CUST-106,2024-07-25,Wireless Mouse,Electronics,2,29.99,completed
+ORD-0040,CUST-127,2024-10-01,Gel Pens (10pk),Stationery,4,8.99,completed
+ORD-0041,CUST-104,2024-05-07,Notebook,STATIONERY,5,4.99,refunded
+ORD-0042,CUST-134,2024-01-26,Water Bottle,Kitchen,9,22.99,completed
+ORD-0043,CUST-130,2024-03-26,Wireless Mouse,Electronics,2,29.99,completed
+ORD-0044,CUST-124,2024-03-25,Gel Pens (10pk),Stationery,7,8.99,completed
+ORD-0045,CUST-146,2024-08-04,Desk Lamp,Furniture,8,34.99,completed
+ORD-0046,CUST-103,2024-04-07,Webcam,Electronics,8,79.99,completed
+ORD-0047,CUST-137,2024-06-09,Mouse Pad,,9,14.99,completed
+ORD-0048,CUST-132,2024-03-21,Water Bottle,,9,22.99,pending
+ORD-0049,CUST-115,2024-10-31,USB-C Hub,,3,49.99,completed
+ORD-0050,CUST-102,2024-05-06,Coffee Mug,Kitchen,2,12.99,pending
+ORD-0051,CUST-133,2024-12-02,Mouse Pad,Electronics,2,14.99,refunded
+ORD-0052,CUST-115,2024-12-08,Monitor Stand,Furniture,5,59.99,completed
+ORD-0053,CUST-129,2024-12-09,Desk Lamp,Furniture,7,34.99,completed
+ORD-0054,CUST-136,2024-08-22,Monitor Stand,Furniture,2,59.99,completed
+ORD-0055,CUST-108,2024-04-19,USB-C Hub,Electronics,2,49.99,pending
+ORD-0056,CUST-128,2024-07-08,Monitor Stand,Furniture,2,59.99,completed
+ORD-0057,CUST-142,2024-11-30,Webcam,Electronics,5,79.99,pending
+ORD-0058,CUST-106,2024-03-09,Webcam,Electronics,5,79.99,completed
+ORD-0059,CUST-145,2024-05-24,Webcam,Electronics,3,79.99,completed
+ORD-0060,CUST-103,2024-09-15,Monitor Stand,Furniture,4,59.99,completed
+ORD-0061,CUST-149,2024-01-23,,Electronics,7,49.99,completed
+ORD-0062,CUST-127,2024-08-14,Notebook,Stationery,5,4.99,completed
+ORD-0063,CUST-144,2024-02-08,Webcam,ELECTRONICS,1,79.99,completed
+ORD-0064,CUST-109,2024-07-08,Notebook,Stationery,9,4.99,completed
+ORD-0065,CUST-150,2024-06-06,Coffee Mug,Kitchen,3,12.99,completed
+ORD-0066,CUST-106,2024-12-15,Wireless Mouse,Electronics,6,29.99,completed
+ORD-0067,CUST-115,2024-11-13,Monitor Stand,Furniture,9,59.99,refunded
+ORD-0068,CUST-121,2024-01-13,Notebook,Stationery,3,4.99,refunded
+ORD-0069,CUST-106,2024-03-22,Coffee Mug,Kitchen,4,12.99,completed
+ORD-0070,CUST-129,2024-04-23,Coffee Mug,Kitchen,1,12.99,refunded
+ORD-0071,CUST-112,2024-04-24,,Furniture,5,59.99,completed
+ORD-0071,CUST-112,2024-04-24,,Furniture,5,59.99,completed
+ORD-0071,CUST-112,2024-04-24,,Furniture,5,59.99,completed
+ORD-0074,CUST-116,2024-05-13,Monitor Stand,Furniture,1,59.99,completed
+ORD-0075,CUST-150,2024-08-10,Wireless Mouse,Electronics,2,29.99,pending
+ORD-0076,CUST-136,2024-09-18,Monitor Stand,Furniture,7,,pending
+ORD-0077,CUST-133,2024-12-28,Gel Pens (10pk),Stationery,5,8.99,completed
+ORD-0078,CUST-142,2024-08-08,Webcam,,4,79.99,completed
+ORD-0079,CUST-146,2024-12-05,Monitor Stand,FURNITURE,10,59.99,completed
+ORD-0080,CUST-125,2024-12-07,Desk Lamp,Furniture,9,34.99,completed
+ORD-0081,CUST-124,2024-04-08,Desk Lamp,Furniture,9,34.99,completed
+ORD-0082,CUST-100,2024-06-03,Notebook,Stationery,10,4.99,pending
+ORD-0083,CUST-138,2024-08-08,Desk Lamp,Furniture,5,34.99,completed
+ORD-0084,CUST-132,2024-08-14,Monitor Stand,Furniture,8,59.99,refunded
+ORD-0085,CUST-140,2024-05-25,Water Bottle,Kitchen,3,22.99,completed
+ORD-0086,CUST-114,2024-04-30,Mouse Pad,Electronics,6,14.99,completed
+ORD-0087,CUST-130,2024-01-24,Gel Pens (10pk),Stationery,3,8.99,completed
+ORD-0088,CUST-136,2024-07-31,Mouse Pad,ELECTRONICS,2,14.99,refunded
+ORD-0089,CUST-141,2024-07-23,Gel Pens (10pk),Stationery,7,8.99,refunded
+ORD-0090,CUST-144,2024-04-22,Wireless Mouse,Electronics,2,29.99,refunded
+ORD-0091,CUST-107,2024-10-12,Webcam,Electronics,8,79.99,completed
+ORD-0092,CUST-135,2024-12-07,Water Bottle,Kitchen,3,22.99,refunded
+ORD-0093,CUST-132,2024-11-09,Mouse Pad,ELECTRONICS,6,14.99,refunded
+ORD-0094,CUST-130,2024-03-22,Coffee Mug,Kitchen,9,12.99,refunded
+ORD-0095,CUST-149,2024-11-22,Water Bottle,Kitchen,5,22.99,completed
+ORD-0096,CUST-145,2024-05-20,Webcam,Electronics,8,79.99,completed
+ORD-0097,CUST-134,2024-06-20,Desk Lamp,Furniture,4,34.99,completed
+ORD-0098,CUST-109,2024-04-28,USB-C Hub,Electronics,3,49.99,completed
+ORD-0099,CUST-129,2024-07-27,Gel Pens (10pk),Stationery,2,8.99,refunded
+ORD-0100,CUST-149,2024-08-03,Coffee Mug,Kitchen,1,12.99,completed
+ORD-0101,CUST-122,2024-07-13,Mouse Pad,Electronics,1,14.99,pending
+ORD-0102,CUST-134,2024-10-02,Desk Lamp,Furniture,7,34.99,refunded
+ORD-0103,CUST-131,2024-04-22,Mouse Pad,Electronics,4,14.99,refunded
+ORD-0104,CUST-125,2024-12-08,Wireless Mouse,Electronics,7,29.99,completed
+ORD-0105,CUST-125,2024-11-14,Notebook,Stationery,8,4.99,completed
+ORD-0106,CUST-108,2024-02-12,Mouse Pad,Electronics,10,14.99,completed
+ORD-0107,CUST-113,2024-05-13,Water Bottle,Kitchen,3,22.99,completed
+ORD-0108,CUST-126,2024-07-13,Water Bottle,Kitchen,6,22.99,completed
+ORD-0109,CUST-103,2024-01-10,Desk Lamp,Furniture,2,34.99,refunded
+ORD-0110,CUST-101,2024-11-29,Monitor Stand,,4,59.99,completed
+ORD-0111,CUST-108,not-a-date,Gel Pens (10pk),Stationery,4,8.99,completed
+ORD-0112,CUST-116,2024-04-21,Water Bottle,Kitchen,2,22.99,pending
+ORD-0112,CUST-116,2024-04-21,Water Bottle,Kitchen,2,22.99,pending
+ORD-0114,CUST-119,2024-02-25,USB-C Hub,Electronics,3,49.99,completed
+ORD-0115,CUST-144,2024-04-11,Mouse Pad,,7,14.99,refunded
+ORD-0116,CUST-107,2024-12-16,Gel Pens (10pk),Stationery,2,8.99,completed
+ORD-0117,CUST-123,2024-09-29,Mouse Pad,Electronics,1,14.99,completed
+ORD-0118,CUST-131,2024-01-07,USB-C Hub,ELECTRONICS,9,49.99,completed
+ORD-0119,CUST-129,2024-11-21,USB-C Hub,ELECTRONICS,7,49.99,completed
+ORD-0119,CUST-129,2024-11-21,USB-C Hub,ELECTRONICS,7,49.99,completed
+ORD-0121,CUST-146,2024-08-26,Mouse Pad,Electronics,9,14.99,refunded
+ORD-0122,CUST-105,2024-05-05,Mouse Pad,ELECTRONICS,5,14.99,completed
+ORD-0123,CUST-142,2024-08-25,Desk Lamp,Furniture,8,34.99,completed
+ORD-0124,CUST-111,2024-09-10,Coffee Mug,KITCHEN,6,12.99,completed
+ORD-0125,CUST-138,2024-05-12,Water Bottle,Kitchen,4,22.99,completed
+ORD-0126,CUST-105,2024-09-21,Desk Lamp,FURNITURE,9,34.99,completed
+ORD-0127,CUST-144,2024-10-11,Gel Pens (10pk),Stationery,7,8.99,refunded
+ORD-0128,CUST-114,2024-01-09,Water Bottle,Kitchen,-8,22.99,refunded
+ORD-0129,CUST-130,2024-12-05,Coffee Mug,Kitchen,4,12.99,completed
+ORD-0129,CUST-130,2024-12-05,Coffee Mug,Kitchen,4,12.99,completed
+ORD-0131,CUST-114,2024-05-18,Monitor Stand,Furniture,6,59.99,refunded
+ORD-0132,CUST-148,2024-03-02,USB-C Hub,Electronics,4,49.99,completed
+ORD-0133,CUST-137,2024-09-04,Notebook,Stationery,4,4.99,completed
+ORD-0134,CUST-118,2024-02-21,Webcam,ELECTRONICS,10,79.99,completed
+ORD-0135,CUST-134,2024-06-03,,Stationery,6,8.99,completed
+ORD-0136,CUST-144,2024-01-28,Notebook,Stationery,5,4.99,completed
+ORD-0137,CUST-130,2024-01-07,Notebook,Stationery,8,4.99,completed
+ORD-0137,CUST-130,2024-01-07,Notebook,Stationery,8,4.99,completed
+ORD-0139,CUST-136,2024-07-24,Water Bottle,Kitchen,2,22.99,completed
+ORD-0140,CUST-105,2024-10-15,Wireless Mouse,ELECTRONICS,3,29.99,completed
+ORD-0141,CUST-150,2024-08-01,Gel Pens (10pk),Stationery,2,8.99,pending
+ORD-0142,CUST-128,2024-07-13,Mouse Pad,Electronics,4,14.99,pending
+ORD-0143,CUST-103,2024-06-05,Desk Lamp,Furniture,10,34.99,refunded
+ORD-0144,CUST-142,2024-11-16,Mouse Pad,Electronics,2,14.99,completed
+ORD-0145,CUST-110,2024-03-29,USB-C Hub,Electronics,3,49.99,completed
+ORD-0146,CUST-118,2024-12-18,Wireless Mouse,Electronics,7,29.99,refunded
+ORD-0147,CUST-129,2024-12-27,Wireless Mouse,Electronics,4,29.99,completed
+ORD-0148,CUST-112,2024-11-16,USB-C Hub,Electronics,4,49.99,completed
+ORD-0149,CUST-117,2024-04-25,Coffee Mug,Kitchen,2,12.99,pending
+ORD-0150,CUST-138,2024-03-25,Notebook,Stationery,2,4.99,completed
+ORD-0151,CUST-119,2024-03-04,Mouse Pad,Electronics,5,14.99,refunded
+ORD-0152,CUST-105,2024-10-03,Coffee Mug,Kitchen,5,12.99,pending
+ORD-0153,CUST-101,2024-06-14,Mouse Pad,Electronics,1,14.99,refunded
+ORD-0153,CUST-101,2024-06-14,Mouse Pad,Electronics,1,14.99,refunded
+ORD-0155,CUST-141,2024-03-30,Desk Lamp,Furniture,10,34.99,completed
+ORD-0156,CUST-131,2024-10-26,Water Bottle,Kitchen,5,22.99,completed
+ORD-0157,CUST-142,2024-07-28,USB-C Hub,Electronics,8,49.99,completed
+ORD-0158,CUST-118,2024-07-29,USB-C Hub,Electronics,3,49.99,completed
+ORD-0159,CUST-116,2024-08-20,Coffee Mug,Kitchen,-9,12.99,completed
+ORD-0160,CUST-100,2024-09-20,Monitor Stand,FURNITURE,2,59.99,refunded
+ORD-0161,CUST-123,2024-01-28,Webcam,Electronics,8,79.99,refunded
+ORD-0162,CUST-135,2024-01-27,Mouse Pad,Electronics,8,14.99,refunded
+ORD-0163,CUST-101,2024-12-23,Notebook,Stationery,5,4.99,refunded
+ORD-0164,CUST-135,2024-06-08,Mouse Pad,Electronics,4,14.99,completed
+ORD-0165,CUST-107,2024-02-28,Coffee Mug,Kitchen,2,12.99,completed
+ORD-0166,CUST-126,2024-09-17,Notebook,Stationery,8,4.99,completed
+ORD-0167,CUST-124,2024-08-21,Water Bottle,Kitchen,8,22.99,completed
+ORD-0168,CUST-117,2024-03-10,Gel Pens (10pk),STATIONERY,10,8.99,pending
+ORD-0169,CUST-118,2024-05-16,Coffee Mug,KITCHEN,6,12.99,pending
+ORD-0170,CUST-109,2024-12-03,Desk Lamp,Furniture,10,34.99,pending
+ORD-0171,CUST-148,2024-06-25,Water Bottle,Kitchen,9,22.99,refunded
+ORD-0172,CUST-144,2024-06-13,Webcam,ELECTRONICS,7,79.99,refunded
+ORD-0173,CUST-126,2024-04-29,Gel Pens (10pk),STATIONERY,10,8.99,refunded
+ORD-0174,CUST-124,2024-12-27,Wireless Mouse,ELECTRONICS,6,29.99,refunded
+ORD-0175,CUST-137,2024-01-19,Coffee Mug,Kitchen,3,,refunded
+ORD-0176,CUST-129,2024-02-21,Monitor Stand,Furniture,2,59.99,refunded
+ORD-0176,CUST-129,2024-02-21,Monitor Stand,Furniture,2,59.99,refunded
+ORD-0178,CUST-141,2024-11-15,Water Bottle,Kitchen,5,22.99,completed
+ORD-0178,CUST-141,2024-11-15,Water Bottle,Kitchen,5,22.99,completed
+ORD-0180,CUST-140,2024-11-12,Water Bottle,,9,22.99,completed
+ORD-0180,CUST-140,2024-11-12,Water Bottle,,9,22.99,completed
+ORD-0182,CUST-101,2024-12-21,USB-C Hub,Electronics,8,49.99,completed
+ORD-0183,CUST-127,2024-05-30,Wireless Mouse,Electronics,6,29.99,completed
+ORD-0184,CUST-150,2024-07-29,Notebook,Stationery,4,4.99,pending
+ORD-0185,CUST-124,2024-02-10,Notebook,Stationery,3,4.99,completed
+ORD-0186,CUST-129,not-a-date,Mouse Pad,Electronics,4,14.99,refunded
+ORD-0187,CUST-129,2024-12-07,,Furniture,8,34.99,completed
+ORD-0188,CUST-122,2024-02-07,Desk Lamp,Furniture,9,34.99,completed
+ORD-0189,CUST-119,2024-12-19,Mouse Pad,Electronics,5,14.99,refunded
+ORD-0190,CUST-136,2024-02-24,Gel Pens (10pk),Stationery,7,8.99,refunded
+ORD-0191,CUST-142,2024-12-24,Monitor Stand,Furniture,10,59.99,completed
+ORD-0192,CUST-149,2024-10-16,Coffee Mug,KITCHEN,5,12.99,completed
+ORD-0193,CUST-114,2024-05-26,Wireless Mouse,Electronics,10,29.99,refunded
+ORD-0194,CUST-116,2024-11-21,Mouse Pad,Electronics,6,14.99,completed
+ORD-0195,CUST-102,2024-06-07,Notebook,Stationery,2,4.99,completed
+ORD-0196,CUST-120,2024-02-16,Mouse Pad,ELECTRONICS,6,14.99,completed
+ORD-0197,CUST-123,2024-03-08,Coffee Mug,Kitchen,3,12.99,completed
+ORD-0198,CUST-130,2024-03-25,Webcam,Electronics,9,79.99,completed
+ORD-0198,CUST-130,2024-03-25,Webcam,Electronics,9,79.99,completed
+ORD-0200,CUST-125,2024-07-06,Gel Pens (10pk),Stationery,-7,8.99,pending

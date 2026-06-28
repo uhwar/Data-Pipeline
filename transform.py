@@ -72,7 +72,7 @@ def transform(clean_df: pd.DataFrame) -> dict:
     print(f"[transform] Computed 5 aggregates from {len(clean_df)} clean rows")
 
     return {
-        "revenue_by_category": revenue_by_catagory,
+        "revenue_by_category": revenue_by_category,
         "monthly_totals": monthly_totals,
         "top_products": top_products,
         "status_breakdown": status_breakdown,
